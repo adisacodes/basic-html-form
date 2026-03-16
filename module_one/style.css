@@ -1,0 +1,8 @@
+.student-data {
+    width: 100;
+ border-collapse: collapse;
+ background-color: whitesmoke;
+ color: beige;
+ padding: 10px;
+ border: 2px solid;
+}
